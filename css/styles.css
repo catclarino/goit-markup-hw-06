@@ -633,6 +633,11 @@ header ul a:focus{
     border: none;
     border-radius: 4px;
 }
+.btn-sub:hover,
+.btn-sub:focus {
+    background-color: var(--ocean);
+}
+
 
 .btn-sub svg {
     fill: white;
