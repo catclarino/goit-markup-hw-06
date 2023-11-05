@@ -614,6 +614,7 @@ header ul a:focus{
     border-radius: 4px;
     padding: 10px;
     width: 264px;
+    color: var(--white);
     background-color: none;
     margin-right: 24px;
 }
